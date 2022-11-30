@@ -8,7 +8,7 @@ Please rank this repo 5 starts if you like our job!
 
 ## Usage
 
-The module deploys an Elasticache Subnet Group and an Elasticache Cluster. It's the first version and we are about to include Replication Group in the next release.
+The module deploys an Elasticache Subnet Group and an Elasticache Cluster. May be used for deploying for both Redis and Memcached. Future enhancements may include Replication Group.
 
 ## Example
 
